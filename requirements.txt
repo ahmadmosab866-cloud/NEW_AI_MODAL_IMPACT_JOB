@@ -2,4 +2,4 @@ pandas
 scikit-learn
 streamlit
 numpy
-pip install streamlit-mic-recorder
+streamlit-mic-recorder
